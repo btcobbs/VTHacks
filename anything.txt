@@ -1,0 +1,6 @@
+Hello World
+
+git config --global user.name <user>
+git config --global user.email <email>
+
+git clone https://github.com/btcobbs/VTHacks.git 
